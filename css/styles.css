@@ -1,11 +1,49 @@
-.box {
-  border: dashed gray;
-  padding: 20px;
-  margin-top: 30px;
-  border-width: 1px;
-  background-color: palegreen
+body {
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+h1 {
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+}
+
+h5 {
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+  font-style: italic;
+  font-size: 25px;
+}
+
+a {
+  color: rgb(189, 90, 189);
 }
 
 .description-text {
+  color: grey;
   font-style: italic;
+  font-size: smaller;
+}
+
+.box1 {
+  border: dashed pink;
+  border-width: 1px;
+  padding: 20px;
+  margin-top: 30px;
+  background-color: papayawhip
+}
+
+.box2 {
+  float: left;
+  width: 50%;
+  padding: 20px;
+  margin-top: 10px;
+  box-sizing: border-box
+}
+
+.card h5 {
+  background-color: pink;
+}
+
+.box2 h5 {
+  background-color: peachpuff
 }
