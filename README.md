@@ -3,7 +3,7 @@ _by Shannon Lee for Code Review #1 at Epicodus_
 
 This is a portfolio website about me, the creator of this project. 
 
-Click [here](https://shanole.github.io/portfolio/index.html) for this website hosted on GitHub Pages
+Click [here](https://shanole.github.io/portfolio/) for this website hosted on GitHub Pages
 
 ## Technologies used
 * HTML
